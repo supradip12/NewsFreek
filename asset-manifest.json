@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsFreek/static/css/main.abd64e84.css",
+    "main.js": "/NewsFreek/static/js/main.e2964c32.js",
+    "static/js/787.d37bafe8.chunk.js": "/NewsFreek/static/js/787.d37bafe8.chunk.js",
+    "static/media/loading.gif": "/NewsFreek/static/media/loading.f4d71b7e2329eafbaea7.gif",
+    "index.html": "/NewsFreek/index.html",
+    "main.abd64e84.css.map": "/NewsFreek/static/css/main.abd64e84.css.map",
+    "main.e2964c32.js.map": "/NewsFreek/static/js/main.e2964c32.js.map",
+    "787.d37bafe8.chunk.js.map": "/NewsFreek/static/js/787.d37bafe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e2964c32.js"
+  ]
+}
